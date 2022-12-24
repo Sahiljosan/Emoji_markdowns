@@ -48,7 +48,7 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 | [top](#smileys--emotion) | :wink: | `:wink:` | :blush: | `:blush:` | [top](#table-of-contents) |
 | [top](#smileys--emotion) | :innocent: | `:innocent:` | | | [top](#table-of-contents) |
 
-[(Back to top)](## Table of Contents)
+[(Back to top)](##Table-of-Contents)
 #### Face Affection
 
 | | ico | shortcode | ico | shortcode | |
