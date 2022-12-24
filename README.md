@@ -4,7 +4,7 @@
 
 This cheat sheet is automatically generated from [GitHub Emoji API](https://api.github.com/emojis) and [Unicode Full Emoji List](https://unicode.org/emoji/charts/full-emoji-list.html).
 
-## Table of Contents
+# Table of Contents
 
 - [Smileys & Emotion](#smileys--emotion)
 - [People & Body](#people--body)
@@ -48,7 +48,7 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 | [top](#smileys--emotion) | :wink: | `:wink:` | :blush: | `:blush:` | [top](#table-of-contents) |
 | [top](#smileys--emotion) | :innocent: | `:innocent:` | | | [top](#table-of-contents) |
 
-[(Back to top)](##-Table-of-Contents)
+[(Back to top)](#table-of-Contents)
 
 #### Face Affection
 
@@ -60,7 +60,7 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 | [top](#smileys--emotion) | :kissing_closed_eyes: | `:kissing_closed_eyes:` | :kissing_smiling_eyes: | `:kissing_smiling_eyes:` | [top](#table-of-contents) |
 | [top](#smileys--emotion) | :smiling_face_with_tear: | `:smiling_face_with_tear:` | | | [top](#table-of-contents) |
 
-[(Back to top)](##-Table-of-Contents)
+[(Back to top)](#table-of-Contents)
 
 #### Face Tongue
 
