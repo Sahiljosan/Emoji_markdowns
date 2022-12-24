@@ -48,7 +48,7 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 | [top](#smileys--emotion) | :wink: | `:wink:` | :blush: | `:blush:` | [top](#table-of-contents) |
 | [top](#smileys--emotion) | :innocent: | `:innocent:` | | | [top](#table-of-contents) |
 
-[(Table of Content)](##Table-of-Contents)
+[(Back to top)](##-Table-of-Contents)
 
 #### Face Affection
 
@@ -60,7 +60,7 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 | [top](#smileys--emotion) | :kissing_closed_eyes: | `:kissing_closed_eyes:` | :kissing_smiling_eyes: | `:kissing_smiling_eyes:` | [top](#table-of-contents) |
 | [top](#smileys--emotion) | :smiling_face_with_tear: | `:smiling_face_with_tear:` | | | [top](#table-of-contents) |
 
-[(Table of Content)](##Table-of-Contents)
+[(Back to top)](##-Table-of-Contents)
 
 #### Face Tongue
 
